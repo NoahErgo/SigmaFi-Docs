@@ -9,3 +9,4 @@
   * [Fulfilling Loan Requests](market/fulfilling-loan-requests.md)
   * [Creating Loan Requests](market/creating-loan-requests.md)
 * [Dashboard](dashboard.md)
+* [SigmaFi Links](sigmafi-links.md)
