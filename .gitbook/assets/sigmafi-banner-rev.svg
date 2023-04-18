@@ -7,11 +7,11 @@
 <svg  version="1.1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="2700" height="2700" viewBox="0 0 2700 2700"
 	 overflow="visible" enable-background="new 0 0 2700 2700" xml:space="preserve">
 <g id="Layer_2">
-	<linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="-144.5" y1="1289.5" x2="2915.5" y2="1289.5">
+	<linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="-144.5" y1="1289.5" x2="2911.5" y2="1289.5">
 		<stop  offset="0" style="stop-color:#6B21A8"/>
 		<stop  offset="1" style="stop-color:#155E75"/>
 	</linearGradient>
-	<rect x="-144.5" y="949.5" fill="url(#XMLID_3_)" width="3060" height="680"/>
+	<rect x="-144.5" y="871.5" fill="url(#XMLID_3_)" width="3056" height="836"/>
 	<text transform="matrix(1 0 0 1 975.499 1449.499)" fill="#FFFFFF" font-family="'Tahoma'" font-size="360">SigmaFi</text>
 </g>
 <g id="Layer_1">
