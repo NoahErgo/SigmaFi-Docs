@@ -1,7 +1,7 @@
 ---
 description: An overview of the SigmaFi lending protocol
-cover: .gitbook/assets/sigmafi-banner.svg
-coverY: 26
+cover: .gitbook/assets/sigmafi-banner-rev.svg
+coverY: 22
 ---
 
 # Introduction

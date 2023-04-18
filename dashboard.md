@@ -4,7 +4,7 @@ description: An overview of the User Dashboard
 
 # Dashboard
 
-<figure><img src=".gitbook/assets/Screen Shot 2023-04-16 at 2.06.25 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2023-04-16 at 2.06.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 **Dashboard**
 

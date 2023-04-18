@@ -10,7 +10,7 @@
 
 3. Click "CONFIRM" and then in the Nautilus pop-up window, sign the transaction
 
-<figure><img src="../.gitbook/assets/Screen Shot 2023-04-16 at 2.38.02 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2023-04-16 at 2.38.02 PM.png" alt=""><figcaption></figcaption></figure>
 
 This will send your loaned assets, ERG for transaction fee, and ERG for the service fee.
 
