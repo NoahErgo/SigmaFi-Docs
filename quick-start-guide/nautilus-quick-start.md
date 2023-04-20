@@ -18,7 +18,7 @@
 
 ![Nautilus click wallet](https://docs.spectrum.fi/assets/images/2-aba857a159d573130be431a4de1927a8.png)
 
-2.3. Type wallet name (of your choice) and wallet spending password:&#x20;
+2.3. Type wallet name (of your choice) and wallet spending password:
 
 <figure><img src="https://docs.spectrum.fi/assets/images/3-7601614678f645b5f13253612503ae74.png" alt=""><figcaption></figcaption></figure>
 
@@ -42,8 +42,6 @@ Get some ERG on one of the following exchanges ([list of available exchanges](ht
 
 Just visit [Ergo Faucet](https://ergofaucet.org/) and follow suggested steps.
 
-
-
 ### 4. Connect wallet to SigmaFi[​](https://docs.spectrum.fi/docs/user-guides/quick-start#4-connect-wallet-to-spectrum-finance) <a href="#4-connect-wallet-to-spectrum-finance" id="4-connect-wallet-to-spectrum-finance"></a>
 
 4.1. Go to [https://sigmafi.app/#/](https://sigmafi.app/#/)
@@ -58,4 +56,4 @@ Just visit [Ergo Faucet](https://ergofaucet.org/) and follow suggested steps.
 
 4.4. Congrats! Now you are ready to start use SigmaFi! Your ERG balance will appear here!
 
-<figure><img src="../.gitbook/assets/balance (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/balance.png" alt=""><figcaption></figcaption></figure>
