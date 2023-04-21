@@ -12,9 +12,7 @@ Borrowers can create a new loan request from the market tab. Here the user will 
 * SigUSD
 * SigRSV
 * Ergopad
-* NETA
 * Paideia
-* Flux
 * SPF
 
 The borrower sets the term length of the loan. The borrower can choose a term length in units of hours, days, or months. The term length will also be displayed in blocks. **Borrowers should know that the term length in units of time is subject to fluctuation, as it is converted from estimated two minute block time. In unusual conditions block times can be drastically shorter or longer depending on mining difficulty.**
