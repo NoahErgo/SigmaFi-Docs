@@ -8,3 +8,4 @@ description: SigmaFi links
 * SigmaFi Frontend: [https://github.com/capt-nemo429/sigmafi-ui](https://github.com/capt-nemo429/sigmafi-ui)
 * SigmaFi DocBook: [https://github.com/NoahErgo/SigmaFi-Docs](https://github.com/NoahErgo/SigmaFi-Docs)
 * SigmaFi Images: [https://github.com/capt-nemo429/sigmafi-ui/tree/main/branding](https://github.com/capt-nemo429/sigmafi-ui/tree/main/branding)
+* SigmaFi Telegram: [https://t.me/sigmafi](https://t.me/sigmafi)
